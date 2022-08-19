@@ -12,7 +12,7 @@ npm start
 
 ------------------------------------------------------
 
-####Install Netlify globally on your system
+#### Install Netlify globally on your system
 
 npm install netlify-cli -D
 
